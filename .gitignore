@@ -1,0 +1,7 @@
+# Local dev items
+.classpath
+.gradle/
+.project
+.settings/
+bin/
+build/
